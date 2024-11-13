@@ -1,6 +1,6 @@
-# Eliza
+# ai69z
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+<img src="https://i.ibb.co/RNq7Wsj/ai69z.png" alt="ai69z" width="100%" />
 
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
@@ -45,11 +45,11 @@ pnpm i
 pnpm start
 ```
 
-# Customising Eliza
+# Customising ai69z
 
 ### Adding custom actions
 
-To avoid git clashes in the core directory, we recommend adding custom actions to a `custom_actions` directory and then adding them to the `elizaConfig.yaml` file. See the `elizaConfig.example.yaml` file for an example.
+To avoid git clashes in the core directory, we recommend adding custom actions to a `custom_actions` directory and then adding them to the `ai69zConfig.yaml` file. See the `ai69zConfig.example.yaml` file for an example.
 
 ## Running with different models
 
